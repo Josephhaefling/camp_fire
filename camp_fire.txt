@@ -9,8 +9,6 @@
     1.2.3 get ax
       1.2.3.1 walk to car
       1.2.3.2 realize you forgot keys
-      1.2.3.3 walk back to camp chair
-      1.2.3.4 get keys
     1.2.4 chop wood
 2. Start fire
   1.1 Stack wood
