@@ -1,0 +1,26 @@
+1. Gather wood
+  1.1 gather kindling
+    1.1.1 walk around
+    1.1.2 look for small dry sticks/wood chips
+    1.1.3 pick up kindling
+  1.2 gather wood
+    1.2.1 walk around looking for wood
+    1.2.2 pick up wood
+    1.2.3 get ax
+      1.2.3.1 walk to car
+      1.2.3.2 realize you forgot keys
+      1.2.3.3 walk back to camp chair
+      1.2.3.4 get keys
+    1.2.4 chop wood
+2. Start fire
+  1.1 Stack wood
+    1.1.1 choose wood structure teepee/log cabin
+    1.1.2 place kindling
+    1.1.3 stack wood according to structure
+  1.2 Ignite
+    1.2.1 get lighter
+      1.2.1.1 flick lighter
+      1.2.1.2 ignite kindling
+  1.3 supply oxygen
+    1.3.1 breath in oxygen
+    1.3.2 blow oxygen onto fire
